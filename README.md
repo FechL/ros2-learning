@@ -19,7 +19,6 @@ Next Step:
 - 📦 [Install ROS2 Humble](/humble/)
 - 🔧 [Install Utility Tools](/utility/)
 
-
 ## 📘 Materi Pembelajaran
 
 ### Section 1: Write First ROS2 Program
@@ -35,6 +34,15 @@ Next Step:
 | 8    | Section Conclusion        | 	Kesimpulan dari section 1              | [klik](/section1_write_ros2/08_conclusion/)        |
 
 ### Section 2: ROS2 Tools
+| Step | Topic                     | Description                                                                 | Link                                                              |
+|------|---------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| 9    | Debug and Monitor Your Nodes | Teknik untuk memantau dan debug node ROS2 secara real-time                    | [klik](/section2_tools/09_debug_monitor_nodes/)          |
+| 10   | Colcon Tips               | Tips dan trik dalam menggunakan colcon untuk membangun project ROS2        | [klik](/section2_tools/10_colcon_tips/)                  |
+| 11   | Rqt and rqt_graph         | Visualisasi dan pemantauan komunikasi antar node dengan `rqt` dan `rqt_graph` | [klik](/section2_tools/11_rqt_and_rqt_graph/)            |
+| 12   | Discover Turtlesim        | Eksplorasi dasar penggunaan Turtlesim sebagai simulasi di ROS2             | [klik](/section2_tools/12_discover_turtlesim/)           |
+| 13   | Remap a Topic at Runtime  | Cara melakukan remapping topic saat runtime tanpa mengubah kode             | [klik](/section2_tools/13_remap_topic_runtime/)          |
+
+### Section 3: ROS2 Topics - Make Your Nodes Communicate Between Each Other
 
 ## 🧠 Tips dan Shortcut
 
