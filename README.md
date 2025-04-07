@@ -1,10 +1,11 @@
 # ROS2 (Robot Operating System 2)
 
 ## 📌 Introduction
-![ros2](/src/ros2.png)
 **ROS2 (Robot Operating System 2)** adalah framework perangkat lunak open-source yang dirancang khusus untuk pengembangan robot.
 
 ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun robot. Dengan ROS2, programmer dapat fokus pada pengembangan logika robot tanpa perlu repot membangun infrastruktur dasar seperti **komunikasi antar komponen robot**.
+
+![ros2](/src/ros2.png)
 
 ## 🧩 Instalasi dan Setup
 Untuk instalasi ROS2, ada dua pilihan utama:
