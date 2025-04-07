@@ -7,8 +7,14 @@
 ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun robot. Dengan ROS2, programmer dapat fokus pada pengembangan logika robot tanpa perlu repot membangun infrastruktur dasar seperti **komunikasi antar komponen robot**.
 
 ## Instalasi dan Setup
+Pemakaian ROS2 disarankan menggunakan [Ubuntu](https://ubuntu.com/#get-ubuntu) versi 22. Untuk menjalankan OS Ubuntu bisa melalui [Oracle VM VirtualBox](https://www.virtualbox.org).
 
+Setelah install VirtualBox, tekan **“New”** dan setup sesuai yang diinginkan. Untuk pemasangan iso file bisa click setting pada setup tersebut lalu **Storage→VBoxGuestAdditions.iso** dan choose file iso ubuntu yang telah didownload. Click start untuk run.
 
+next step:
+1. Setup Ubuntu VM VirtualBox [klik disini](/vbox_ubuntu/)
+2. Install ROS2 Humble [klik disini](/ros2_humble/)
+3. Utility Tools [klik disini](/utility_tools/)
 
 ## Materi
 
