@@ -12,14 +12,23 @@ Pemakaian ROS2 disarankan menggunakan [Ubuntu](https://ubuntu.com/#get-ubuntu) v
 Setelah install VirtualBox, tekan **“New”** dan setup sesuai yang diinginkan. Untuk pemasangan iso file bisa click setting pada setup tersebut lalu **Storage→VBoxGuestAdditions.iso** dan choose file iso ubuntu yang telah didownload. Click start untuk run.
 
 next step:
-1. Setup Ubuntu VM VirtualBox [klik disini](/vbox_ubuntu/)
-2. Install ROS2 Humble [klik disini](/ros2_humble/)
-3. Utility Tools [klik disini](/utility_tools/)
+1. Setup Ubuntu VM VirtualBox [klik disini](/ubuntu/)
+2. Install ROS2 Humble [klik disini](/humble/)
+3. Utility Tools [klik disini](/utility/)
 
 ## Materi
 
 ### Section 1: Write First ROS2 Program
-
+| Step | Topic                     | Description                            | Link                                               |
+|------|---------------------------|----------------------------------------|----------------------------------------------------|
+| 1    | Build Tool Colcon         | install build tool colcon              | [klik](/section1_write_ros2/01_build_tool_colcon/) |
+| 2    | Create Workspace          | pembuatan workspace untuk ROS2         | [klik](/section1_write_ros2/02_create_workspace/)  |
+| 3    | Create Package            | pembuatan package python dan c++       | [klik](/section1_write_ros2/03_create_package/)    |
+| 4    | ROS2 Node                 | penjelasan mengenai node pada ROS2     | [klik](/section1_write_ros2/04_ros2_node/)         |
+| 5    | Write a Node Using Python | Membuat node dengan python             | [klik](/section1_write_ros2/05_python_node/)       |
+| 6    | Write a Node Using C++    | Membuat node dengan c++                | [klik](/section1_write_ros2/06_cpp_node/)          |
+| 7    | Template for Nodes        | template OOP untuk node python dan c++ | [klik](/section1_write_ros2/07_template_node/)     |
+| 8    | Section Conclusion        | kesimpulan dari seksi ini              | [klik](/section1_write_ros2/08_conclusion/)        |
 
 
 ## Tips
