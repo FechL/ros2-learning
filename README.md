@@ -9,13 +9,13 @@ ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun 
 ## 🧩 Instalasi dan Setup
 Untuk instalasi ROS2, ada dua pilihan utama:
 
-### Rekomendasi: Install ROS2 via Ubuntu 22.04 di VirtualBox (Windows Host)
-Cocok untuk pengguna Windows agar bisa menjalankan ROS2 di lingkungan Linux. Untuk detail [klik disini](/windows_host/)
+***Rekomendasi: Install ROS2 via Ubuntu 22.04 di VirtualBox (Windows Host)***
+> Cocok untuk pengguna Windows agar bisa menjalankan ROS2 di lingkungan Linux. Untuk detail [klik disini](/windows_host/)
 
-### Alternatif: Install langsung di perangkat dengan Linux Ubuntu 22.04
-Jika kamu sudah menggunakan Ubuntu 22.04 sebagai OS utama, kamu bisa langsung melanjutkan ke step berikutnya.
+***Alternatif: Install langsung di perangkat dengan Linux Ubuntu 22.04***
+> Jika kamu sudah menggunakan Ubuntu 22.04 sebagai OS utama, kamu bisa langsung melanjutkan ke step berikutnya.
 
-### Next Step:
+Next Step:
 - 📦 [Install ROS2 Humble](/humble/)
 - 🔧 [Install Utility Tools](/utility/)
 
@@ -41,22 +41,22 @@ Jika kamu sudah menggunakan Ubuntu 22.04 sebagai OS utama, kamu bisa langsung me
 * `ctrl`+`c` untuk menghentikan program pada terminal
 * Selalu menjalankan `source ~/.bashrc` sebelum membuat package baru atau node baru.
 * Ketika modify file code dan menjalankannya kita perlu build colcon `colcon build --packages-select <your_pkg_name>`.
-### ROS2 CLI Commands
+    ### ROS2 CLI Commands
 
-| Parameter Dasar | Parameter Lanjutan | Keterangan |
-|----------------|-------------------|------------|
-| **`topic`** | `list` | Menampilkan list topic yang aktif |
-| | `info /<topic>` | Melihat informasi mengenai topic seperti berapa publisher dan subscribernya |
-| | `echo /<topic>` | Menampilkan pesan yang dipublikasikan pada topic |
-| | `hz /<topic>` | Menghitung dan menampilkan frekuensi (hertz) dari pesan yang diterima topic |
-| | `bw /<topic>` | Mengukur bandwidth (throughput) dari pesan yang dikirim pada topic |
-| | `pub -r <freq> /<topic> <tipe_msg> "{data pesan}"` | Mempublikasikan pesan ke topik secara manual. Contoh: `ros2 topic pub -r 10 /robot_news example_interfaces/msg/String "{data: 'hello from terminal'}"` |
-| **`node`** | `list` | Menampilkan list node yang aktif |
-| | `info /<node>` | Melihat informasi mengenai node |
-| **`interface`** | `show <tipe_msg>` | Memberikan informasi detail tentang struktur data dari sebuah antarmuka. Contoh: `ros2 interface show geometry_msg/msg/Twist` (setelah run node turtlesim) |
-| **`bag`** | `record /<topic>` OR `record -o <name folder> /<topic>` | Merecord isi topic pada topic tertentu sampai stop dan disimpan pada folder |
-| | `info <folder recorded>` | Berisikan informasi record pada folder tertentu |
-| | `play <folder recorder>` | Menjalakan isi topic yang sudah terecord pada sebuah folder dengan durasi selama record |
+    | Parameter Dasar | Parameter Lanjutan | Keterangan |
+    |----------------|-------------------|------------|
+    | **`topic`** | `list` | Menampilkan list topic yang aktif |
+    | | `info /<topic>` | Melihat informasi mengenai topic seperti berapa publisher dan subscribernya |
+    | | `echo /<topic>` | Menampilkan pesan yang dipublikasikan pada topic |
+    | | `hz /<topic>` | Menghitung dan menampilkan frekuensi (hertz) dari pesan yang diterima topic |
+    | | `bw /<topic>` | Mengukur bandwidth (throughput) dari pesan yang dikirim pada topic |
+    | | `pub -r <freq> /<topic> <tipe_msg> "{data pesan}"` | Mempublikasikan pesan ke topik secara manual. Contoh: `ros2 topic pub -r 10 /robot_news example_interfaces/msg/String "{data: 'hello from terminal'}"` |
+    | **`node`** | `list` | Menampilkan list node yang aktif |
+    | | `info /<node>` | Melihat informasi mengenai node |
+    | **`interface`** | `show <tipe_msg>` | Memberikan informasi detail tentang struktur data dari sebuah antarmuka. Contoh: `ros2 interface show geometry_msg/msg/Twist` (setelah run node turtlesim) |
+    | **`bag`** | `record /<topic>` OR `record -o <name folder> /<topic>` | Merecord isi topic pada topic tertentu sampai stop dan disimpan pada folder |
+    | | `info <folder recorded>` | Berisikan informasi record pada folder tertentu |
+    | | `play <folder recorder>` | Menjalakan isi topic yang sudah terecord pada sebuah folder dengan durasi selama record |
 
 ## 📚 Referensi Belajar
 
