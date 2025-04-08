@@ -23,16 +23,16 @@ Next Step:
 ## 📘 Materi Pembelajaran
 
 ### Section 1: Write First ROS2 Program
-| Step | Topic                     | Description                            | Link                                               |
-|------|---------------------------|----------------------------------------|----------------------------------------------------|
-| 1    | Build Tool Colcon         | Installasi build tool colcon              | [klik](/section1_write_ros2/01_build_tool_colcon/) |
-| 2    | Create Workspace          | 	Pembuatan workspace untuk ROS2         | [klik](/section1_write_ros2/02_create_workspace/)  |
-| 3    | Create Package            | Membuat package Python dan C++       | [klik](/section1_write_ros2/03_create_package/)    |
-| 4    | ROS2 Node                 | Penjelasan konsep node dalam ROS2     | [klik](/section1_write_ros2/04_ros2_node/)         |
-| 5    | Write a Node Using Python | 	Membuat node menggunakan Python             | [klik](/section1_write_ros2/05_python_node/)       |
-| 6    | Write a Node Using C++    | 	Membuat node menggunakan C++                | [klik](/section1_write_ros2/06_cpp_node/)          |
-| 7    | Template for Nodes        | 	Template OOP Python & C++ untuk node | [klik](/section1_write_ros2/07_template_node/)     |
-| 8    | Section Conclusion        | 	Kesimpulan dari section 1              | [klik](/section1_write_ros2/08_conclusion/)        |
+| Step | Topic                     | Description                                              | Link                                                        |
+|------|---------------------------|----------------------------------------------------------|-------------------------------------------------------------|
+| 1    | Build Tool Colcon         | Instalasi dan pengenalan build tool `colcon` di ROS 2    | [klik](/section1_write_ros2/01_build_tool_colcon/)          |
+| 2    | Create Workspace          | Pembuatan workspace sebagai dasar pengembangan ROS 2     | [klik](/section1_write_ros2/02_create_workspace/)           |
+| 3    | Create Package            | Membuat package menggunakan Python dan C++               | [klik](/section1_write_ros2/03_create_package/)             |
+| 4    | ROS2 Node                 | Penjelasan konsep dan arsitektur node dalam ROS 2        | [klik](/section1_write_ros2/04_ros2_node/)                  |
+| 5    | Write a Node Using Python | Implementasi node ROS 2 menggunakan bahasa Python         | [klik](/section1_write_ros2/05_python_node/)                |
+| 6    | Write a Node Using C++    | Implementasi node ROS 2 menggunakan bahasa C++            | [klik](/section1_write_ros2/06_cpp_node/)                   |
+| 7    | Template for Nodes        | Template OOP untuk membuat node dalam Python dan C++      | [klik](/section1_write_ros2/07_template_node/)              |
+| 8    | Section Conclusion        | Kesimpulan dan rangkuman materi pada Section 1           | [klik](/section1_write_ros2/08_section1_conclusion/)        |
 
 ### Section 2: ROS2 Tools
 | Step | Topic                     | Description                                                                 | Link                                                              |
@@ -44,6 +44,16 @@ Next Step:
 | 13   | Remap a Topic at Runtime  | Cara melakukan remapping topic saat runtime tanpa mengubah kode             | [klik](/section2_tools/13_remap_topic_runtime/)          |
 
 ### Section 3: ROS2 Topics - Make Your Nodes Communicate Between Each Other
+| Step | Topic                              | Description                                                                 | Link                                                      |
+|------|------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------|
+| 14   | Write a Python Publisher           | Membuat publisher sederhana menggunakan bahasa Python                       | [klik](/section3_topics/14_python_publisher/)             |
+| 15   | Write a Python Subscriber          | Membuat subscriber untuk menerima data topic menggunakan Python             | [klik](/section3_topics/15_python_subscriber/)            |
+| 16   | Write a C++ Publisher              | Membuat publisher dalam bahasa C++ untuk mengirim data ke topic            | [klik](/section3_topics/16_cpp_publisher/)                |
+| 17   | Write a C++ Subscriber             | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic          | [klik](/section3_topics/17_cpp_subscriber/)               |
+| 18   | Experiment on Topics with Turtlesim| Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim             | [klik](/section3_topics/18_turtlesim_topics/)  |
+| 19   | Activity ROS2 Topics               | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2       | [klik](/section3_topics/19_activity_ros2_topics/)         |
+| 20   | Section Conclusion                 | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2           | [klik](/section3_topics/20_section_conclusion/)           |
+
 
 ## 🧠 Tips dan Shortcut
 
