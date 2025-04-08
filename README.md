@@ -11,7 +11,7 @@ ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun 
 Untuk instalasi ROS2, ada dua pilihan utama:
 
 ***Rekomendasi: Install ROS2 via Ubuntu 22.04 di VirtualBox (Windows Host)***
-> Cocok untuk pengguna Windows agar bisa menjalankan ROS2 di lingkungan Linux. Untuk detail [klik disini](/windows_host/)
+> Cocok untuk pengguna Windows agar bisa menjalankan ROS2 di lingkungan Linux. Untuk detail [klik di sini](/windows_host/)
 
 ***Alternatif: Install langsung di perangkat dengan Linux Ubuntu 22.04***
 > Jika kamu sudah menggunakan Ubuntu 22.04 sebagai OS utama, kamu bisa langsung melanjutkan ke step berikutnya.
