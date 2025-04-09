@@ -33,6 +33,5 @@ setelah **.bashrc** dibuka, pada line terakhir copy tulis:
     source ~/.bashrc
     ```
 
-| [Menu Utama 🏠](/) | [Next ▶️ [02 create workspace]](../02_create_workspace/) |
-|---|---|
-|  |  |
+| [🏠 Menu Utama](/) | [▶️ Next: 02 Create Workspace](../02_create_workspace/) |
+| ----------------- | ------------------------------------------------------ |

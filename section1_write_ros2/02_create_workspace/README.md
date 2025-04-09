@@ -64,6 +64,5 @@ cd ~/ros2_ws
 colcon build
 ```
 
-| [Prev ◀️ [01 build colcon]](../01_build_tool_colcon/) | [Menu Utama 🏠](/) | [Next ▶️ [03 create workspace]](../03_create_package/) |
-|---|---|---|
-|  |  |  |
+| [◀️ Prev: 01 Build Colcon](../01_build_tool_colcon/) | [🏠 Menu Utama](/) | [▶️ Next: 03 Create Workspace](../03_create_package/) |
+| --------------------------------------------------- | ----------------- | ---------------------------------------------------- |
