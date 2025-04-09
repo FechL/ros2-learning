@@ -1,6 +1,6 @@
-## Tools
+# Tools
 
-### VSCode
+## VSCode
 
 Visual Studio Code merupakan text editor code open source yang populer dikembangkan oleh Microsoft dengan tools dan extension yang bisa didownload.
 
@@ -11,7 +11,7 @@ Setup:
 1. Sync akun Anda jika pernah menggunakan VSCode sebelumnya.
 2. Install Extension: Python, C/C++, Cmake
 
-### Terminator
+## Terminator
 
 Terminal Emulator yang menawarkan fungsionalitas tingkat lanjut dan opsi penyesuaian bagi pengguna yang membutuhkan lebih dari apa yang disediakan terminal tradisional.
 
