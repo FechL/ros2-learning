@@ -26,8 +26,8 @@ ros2 pkg create ur_name_pkg --build-type ament_python --dependencies rclpy
 ros2 pkg create ur_name_pkg --build-type ament_cmake --dependencies rclcpp
 ```
 
-> 🔖 `ur_name_pkg` bisa diganti sesuai nama package yang kamu inginkan.  
-> 📚 `rclpy` dan `rclcpp` adalah library utama untuk menggunakan ROS 2 di Python dan C++.
+> `ur_name_pkg` bisa diganti sesuai nama package yang kamu inginkan.  
+> `rclpy` dan `rclcpp` adalah library utama untuk menggunakan ROS 2 di Python dan C++.
 
 
 ## 📁 Struktur Package
@@ -59,13 +59,13 @@ Setelah membuat atau mengedit package, kamu harus kembali ke **root workspace** 
 cd ~/ros2_ws
 ```
 
-### 🔨 Build semua package:
+### Build semua package:
 
 ```bash
 colcon build
 ```
 
-### 🔍 Atau hanya build satu package:
+### Atau hanya build satu package:
 
 ```bash
 colcon build --packages-select ur_name_pkg
@@ -89,5 +89,5 @@ ros2 pkg list | grep ur_name_pkg
 ```
 Jika muncul, artinya package berhasil dikenali oleh ROS 2.
 
-| [◀️ Prev: Create Workspace](../02_create_workspace/) | [🏠 Menu Utama](/) | [▶️ Next: ROS2 Node](../04_ros2_node/) |
-| --------------------------------------------------- | ----------------- | ------------------------------------- |
+| [◀️ Prev: 02 Create Workspace](../02_create_workspace/) | [🏠 Menu Utama](/) | [▶️ Next: 03 ROS2 Node](../04_ros2_node/) |
+| ------------------------------------------------------ | ----------------- | ---------------------------------------- |

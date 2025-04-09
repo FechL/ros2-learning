@@ -9,11 +9,13 @@ sudo apt install python3-colcon-commons-extensions
 ```
 > Catatan: Paket colcon-common-extensions mencakup sekumpulan plugin penting untuk membangun dan menjalankan workspace ROS 2, seperti colcon-build, colcon-test, dan lainnya.
 
-***Verifikasi Instalasi***
+### Verifikasi Instalasi
+
 Untuk memastikan colcon sudah terinstal dengan benar, coba jalankan perintah:
 ```bash
 colcon --help
 ```
+
 Jika berhasil, kamu akan melihat daftar subcommands dan opsi konfigurasi dari colcon.
 
 ## Setup Auto-completion
