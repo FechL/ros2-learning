@@ -2,7 +2,7 @@
 
 Dalam ROS 2, **package** adalah unit terkecil dari sebuah proyek. Package bisa berisi program, library, launch file, konfigurasi, dan lainnya. ROS 2 mendukung dua bahasa utama: **Python** dan **C++**.
 
-## 📦 Membuat Package
+## Membuat Package
 
 Pembuatan package dilakukan di dalam folder `src` pada workspace-mu.
 
@@ -89,5 +89,5 @@ ros2 pkg list | grep ur_name_pkg
 ```
 Jika muncul, artinya package berhasil dikenali oleh ROS 2.
 
-| [◀️ Prev: 02 Create Workspace](../02_create_workspace/) | [🏠 Menu Utama](/) | [▶️ Next: 03 ROS2 Node](../04_ros2_node/) |
+| [◀️ Prev: 02 Create Workspace](../02_create_workspace/) | [🏠 Menu Utama](/) | [▶️ Next: 04 ROS2 Node](../04_ros2_node/) |
 | ------------------------------------------------------ | ----------------- | ---------------------------------------- |
