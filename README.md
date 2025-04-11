@@ -31,23 +31,23 @@ Next Step:
 | 5    | Write a Node Using Python | Implementasi node ROS 2 menggunakan bahasa Python     | [klik](/section1_write_ros2/05_python_node/)         |
 | 6    | Write a Node Using C++    | Implementasi node ROS 2 menggunakan bahasa C++        | [klik](/section1_write_ros2/06_cpp_node/)            |
 | 7    | Template for Nodes        | Template OOP untuk membuat node dalam Python dan C++  | [klik](/section1_write_ros2/07_template_node/)       |
-| 8    | Section Conclusion        | Kesimpulan dan rangkuman materi pada Section 1        | [klik](/section1_write_ros2/08_section1_conclusion/) |
+| 8    | Section 1 Conclusion      | Kesimpulan dan rangkuman materi pada Section 1        | [klik](/section1_write_ros2/08_section1_conclusion/) |
 
-
-
-### Section 3: ROS2 Topics - Make Your Nodes Communicate Between Each Other
+### Section 2: ROS2 Topics - Publisher and Subsciber
 | Step | Topic                               | Description                                                          | Link                                              |
 | ---- | ----------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
-| 14   | Write a Python Publisher            | Membuat publisher sederhana menggunakan bahasa Python                | [klik](/section3_topics/14_python_publisher/)     |
-| 15   | Write a Python Subscriber           | Membuat subscriber untuk menerima data topic menggunakan Python      | [klik](/section3_topics/15_python_subscriber/)    |
-| 16   | Write a C++ Publisher               | Membuat publisher dalam bahasa C++ untuk mengirim data ke topic      | [klik](/section3_topics/16_cpp_publisher/)        |
-| 17   | Write a C++ Subscriber              | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic    | [klik](/section3_topics/17_cpp_subscriber/)       |
-| 18   | Experiment on Topics with Turtlesim | Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim       | [klik](/section3_topics/18_turtlesim_topics/)     |
-| 19   | Activity ROS2 Topics                | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2 | [klik](/section3_topics/19_activity_ros2_topics/) |
-| 20   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section3_topics/20_section_conclusion/)   |
+| 9    | ROS2 Topic                          | Penjelasan konsep topic pada node                                    | [klik](/section2_topics/09_ros2_topic/)           |
+| 10   | Write a Python Publisher            | Membuat publisher sederhana menggunakan bahasa Python                | [klik](/section2_topics/14_python_publisher/)     |
+| 11   | Write a Python Subscriber           | Membuat subscriber untuk menerima data topic menggunakan Python      | [klik](/section2_topics/15_python_subscriber/)    |
+| 12   | Write a C++ Publisher               | Membuat publisher dalam bahasa C++ untuk mengirim data ke topic      | [klik](/section2_topics/16_cpp_publisher/)        |
+| 13   | Write a C++ Subscriber              | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic    | [klik](/section2_topics/17_cpp_subscriber/)       |
+| 14   | Experiment on Topics with Turtlesim | Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim       | [klik](/section2_topics/18_turtlesim_topics/)     |
+| 15   | Activity ROS2 Topics                | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2 | [klik](/section2_topics/19_activity_ros2_topics/) |
+| 16   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section2_topics/20_section_conclusion/)   |
 
+### Section 3: ROS2 Services - Server and Client
 
-## 🧠 Tips dan Shortcut
+## 🧠 Tips, Tools, and Shortcut
 
 * `ctrl`+`c` untuk menghentikan program pada terminal
 * Selalu menjalankan `source ~/.bashrc` sebelum membuat package baru atau node baru.
@@ -70,13 +70,13 @@ Next Step:
     |                 | `play <folder recorder>`                                | Menjalakan isi topic yang sudah terecord pada sebuah folder dengan durasi selama record                                                                    |
 
 * ROS2 Other Tools
-    | Step | Topic                        | Description                                                                   | Link                                   |
-    | ---- | ---------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-    | 9    | Debug and Monitor Your Nodes | Teknik untuk memantau dan debug node ROS2 secara real-time                    | [klik](/tools/09_debug_monitor_nodes/) |
-    | 10   | Colcon Tips                  | Tips dan trik dalam menggunakan colcon untuk membangun project ROS2           | [klik](/tools/10_colcon_tips/)         |
-    | 11   | Rqt and rqt_graph            | Visualisasi dan pemantauan komunikasi antar node dengan `rqt` dan `rqt_graph` | [klik](/tools/11_rqt_and_rqt_graph/)   |
-    | 12   | Discover Turtlesim           | Eksplorasi dasar penggunaan Turtlesim sebagai simulasi di ROS2                | [klik](/tools/12_discover_turtlesim/)  |
-    | 13   | Remap a Topic at Runtime     | Cara melakukan remapping topic saat runtime tanpa mengubah kode               | [klik](/tools/13_remap_topic_runtime/) |
+     | Topic                        | Description                                                                   | Link                                   |
+     | ---------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
+     | Debug and Monitor Your Nodes | Teknik untuk memantau dan debug node ROS2 secara real-time                    | [klik](/tools/09_debug_monitor_nodes/) |
+     | Colcon Tips                  | Tips dan trik dalam menggunakan colcon untuk membangun project ROS2           | [klik](/tools/10_colcon_tips/)         |
+     | Rqt and rqt_graph            | Visualisasi dan pemantauan komunikasi antar node dengan `rqt` dan `rqt_graph` | [klik](/tools/11_rqt_and_rqt_graph/)   |
+     | Discover Turtlesim           | Eksplorasi dasar penggunaan Turtlesim sebagai simulasi di ROS2                | [klik](/tools/12_discover_turtlesim/)  |
+     | Remap a Topic at Runtime     | Cara melakukan remapping topic saat runtime tanpa mengubah kode               | [klik](/tools/13_remap_topic_runtime/) |
 ## 📚 Referensi Belajar
 
 - [ROS2 For Beginners (ROS Foxy, Humble - 2024)](https://www.udemy.com/course/ros2-for-beginners/)

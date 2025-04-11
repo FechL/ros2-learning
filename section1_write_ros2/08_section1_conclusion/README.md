@@ -52,5 +52,5 @@ Berikut adalah ilustrasi struktur node dalam package:
 Kamu bisa download contoh kode lengkap untuk bagian ini di sini:  
 [📥 Download code_end_section_1_nodes.zip](code_end_section_1_nodes.zip)
 
-| [◀️ Prev: 07 Template Node](../07_template_node/) | [🏠 Menu Utama](/) | [▶️ Next: 09 Debug Monitor Nodes](/section2_tools/09_debug_monitor_nodes/) |
-| ------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |
+| [◀️ Prev: 07 Template Node](../07_template_node/) | [🏠 Menu Utama](/) | [▶️ Next: 09 ROS2 Topic](/section2_topics/09_ros2_topic/) |
+| ------------------------------------------------ | ----------------- | -------------------------------------------------------- |

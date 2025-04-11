@@ -102,6 +102,6 @@ ros2 run demo_nodes_py listener  # bisa menggunakan python atau cpp
 
 Jika berhasil, terminal talker akan menampilkan pesan `Publishing` dan listener akan menampilkan pesan `I heard`.
 
-![terminal](/humble/src/terminal.png)
+![terminal](/assets/terminal.png)
 
 full dokumentasi klik [di sini](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html).
