@@ -2,13 +2,13 @@
 
 Dalam ROS 2, **node** adalah unit eksekusi terkecil dari aplikasi. Setiap node memiliki satu tanggung jawab khusus, dan aplikasi besar biasanya terdiri dari beberapa node yang berjalan secara bersamaan dan saling berkomunikasi.
 
-## 🔍 Apa Itu Node?
+## Apa Itu Node?
 
 Node dapat dianggap sebagai *komponen modular* dalam sistem robotika. Mereka dikembangkan secara terpisah dan dikelola dalam package.
 
 📌 Contoh:
 
-![Node Communication](../src/node_communication.png)
+![Node Communication](/assets/node_communication.png)
 
 - Node A: `Camera driver` — Mengontrol dan mengakses kamera sebagai sensor utama
 - Node B: `Image processing` dan `Path correction` — Memproses data dari kamera dan memperbaiki jalur pergerakan robot

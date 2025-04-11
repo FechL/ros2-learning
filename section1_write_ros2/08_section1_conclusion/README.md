@@ -44,13 +44,13 @@ ros2 run <package_name> <executable_name>
 
 Berikut adalah ilustrasi struktur node dalam package:
 
-![ROS2 Package Architecture](../src/ros2_package_architecture.png)
+![ROS2 Package Architecture](/assets/ros2_package_architecture.png)
 
 
 ### 📦 Download Code
 
 Kamu bisa download contoh kode lengkap untuk bagian ini di sini:  
-[📥 Download code_end_section_3_nodes.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/abda0725-6427-45da-ad0a-208708f019ae/3a21bd9d-591e-4956-b4ff-b7f9802d2174/code_end_section_3_nodes.zip)
+[📥 Download code_end_section_1_nodes.zip](code_end_section_1_nodes.zip)
 
 | [◀️ Prev: 07 Template Node](../07_template_node/) | [🏠 Menu Utama](/) | [▶️ Next: 09 Debug Monitor Nodes](/section2_tools/09_debug_monitor_nodes/) |
 | ------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |

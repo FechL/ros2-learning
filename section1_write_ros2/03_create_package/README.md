@@ -14,13 +14,13 @@ cd ~/ros2_ws/src
 
 ### 2. Buat package baru:
 
-#### ✅ Untuk **Python**:
+#### Untuk **Python**:
 
 ```bash
 ros2 pkg create ur_name_pkg --build-type ament_python --dependencies rclpy
 ```
 
-#### ✅ Untuk **C++**:
+#### Untuk **C++**:
 
 ```bash
 ros2 pkg create ur_name_pkg --build-type ament_cmake --dependencies rclcpp
@@ -43,7 +43,7 @@ ur_name_pkg/
 └── resource/
 ```
 
-### 🔧 Edit Metadata dan Dependency
+### Edit Metadata dan Dependency
 
 - `package.xml`: Menyimpan informasi metadata package (nama, deskripsi, dependency).
 - `CMakeLists.txt`: Digunakan di C++ untuk mendeklarasikan executable, library, dan dependency.

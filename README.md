@@ -4,7 +4,7 @@
 
 ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun robot. Dengan ROS2, programmer dapat fokus pada pengembangan logika robot tanpa perlu repot membangun infrastruktur dasar seperti **komunikasi antar komponen robot**.
 
-![ros2](/src/ros2.png)
+![ros2](/assets/ros2.png)
 
 ## Instalasi dan Setup
 Untuk instalasi ROS2, ada dua pilihan utama:
@@ -33,14 +33,7 @@ Next Step:
 | 7    | Template for Nodes        | Template OOP untuk membuat node dalam Python dan C++  | [klik](/section1_write_ros2/07_template_node/)       |
 | 8    | Section Conclusion        | Kesimpulan dan rangkuman materi pada Section 1        | [klik](/section1_write_ros2/08_section1_conclusion/) |
 
-### Section 2: ROS2 Tools
-| Step | Topic                        | Description                                                                   | Link                                            |
-| ---- | ---------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
-| 9    | Debug and Monitor Your Nodes | Teknik untuk memantau dan debug node ROS2 secara real-time                    | [klik](/section2_tools/09_debug_monitor_nodes/) |
-| 10   | Colcon Tips                  | Tips dan trik dalam menggunakan colcon untuk membangun project ROS2           | [klik](/section2_tools/10_colcon_tips/)         |
-| 11   | Rqt and rqt_graph            | Visualisasi dan pemantauan komunikasi antar node dengan `rqt` dan `rqt_graph` | [klik](/section2_tools/11_rqt_and_rqt_graph/)   |
-| 12   | Discover Turtlesim           | Eksplorasi dasar penggunaan Turtlesim sebagai simulasi di ROS2                | [klik](/section2_tools/12_discover_turtlesim/)  |
-| 13   | Remap a Topic at Runtime     | Cara melakukan remapping topic saat runtime tanpa mengubah kode               | [klik](/section2_tools/13_remap_topic_runtime/) |
+
 
 ### Section 3: ROS2 Topics - Make Your Nodes Communicate Between Each Other
 | Step | Topic                               | Description                                                          | Link                                              |
@@ -76,6 +69,14 @@ Next Step:
     |                 | `info <folder recorded>`                                | Berisikan informasi record pada folder tertentu                                                                                                            |
     |                 | `play <folder recorder>`                                | Menjalakan isi topic yang sudah terecord pada sebuah folder dengan durasi selama record                                                                    |
 
+* ROS2 Other Tools
+    | Step | Topic                        | Description                                                                   | Link                                   |
+    | ---- | ---------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
+    | 9    | Debug and Monitor Your Nodes | Teknik untuk memantau dan debug node ROS2 secara real-time                    | [klik](/tools/09_debug_monitor_nodes/) |
+    | 10   | Colcon Tips                  | Tips dan trik dalam menggunakan colcon untuk membangun project ROS2           | [klik](/tools/10_colcon_tips/)         |
+    | 11   | Rqt and rqt_graph            | Visualisasi dan pemantauan komunikasi antar node dengan `rqt` dan `rqt_graph` | [klik](/tools/11_rqt_and_rqt_graph/)   |
+    | 12   | Discover Turtlesim           | Eksplorasi dasar penggunaan Turtlesim sebagai simulasi di ROS2                | [klik](/tools/12_discover_turtlesim/)  |
+    | 13   | Remap a Topic at Runtime     | Cara melakukan remapping topic saat runtime tanpa mengubah kode               | [klik](/tools/13_remap_topic_runtime/) |
 ## 📚 Referensi Belajar
 
 - [ROS2 For Beginners (ROS Foxy, Humble - 2024)](https://www.udemy.com/course/ros2-for-beginners/)
