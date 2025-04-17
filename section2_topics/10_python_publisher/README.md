@@ -1,5 +1,5 @@
 
-# Write a Python Publisher Node
+# Write a Python Publisher
 
 Sekarang kita akan membuat **node publisher** pertama Anda menggunakan **Python** di ROS2. Node ini akan mengirimkan pesan teks secara berkala ke sebuah topik bernama `/robot_news`.
 

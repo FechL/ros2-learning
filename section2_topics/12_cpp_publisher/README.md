@@ -1,5 +1,5 @@
 
-# Write a C++ Publisher Node
+# Write a C++ Publisher
 
 Sekarang kita akan membuat **node publisher** pertama Anda menggunakan **C++** di ROS2. Node ini akan mengirimkan pesan teks secara berkala ke sebuah topik bernama `/robot_news`.
 
@@ -108,7 +108,6 @@ ros2 run my_cpp_pkg robot_news_station
 Contoh hasil terminal:
 
 ![terminal cpp publisher](/assets/terminal_cpp_publisher.png)
-![rqt graph cpp](/assets/rqt_graph.png)
 
 Jika node subscriber Python Anda masih berjalan (misalnya node `smartphone` dari sebelumnya), maka akan muncul pesan-pesan yang diterima oleh subscriber.
 

@@ -1,4 +1,4 @@
-# Write a Python Subscriber Node
+# Write a Python Subscriber
 
 Sekarang kita akan membuat **node subscriber** pertama Anda menggunakan **Python** di ROS2. Node ini akan menerima pesan teks dari topik `/robot_news` yang dipublikasikan oleh node lain seperti `robot_news_station`.
 
