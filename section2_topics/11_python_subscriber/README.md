@@ -97,7 +97,10 @@ Pastikan node publisher (`robot_news_station`) juga berjalan. Maka node subscrib
 
 Contoh hasil terminal:
 
-![Screenshot](/assets/terminal_python_subscriber.png)
+![terminal python subscriber](/assets/terminal_python_subscriber.png)
+![rqt graph python](/assets/rqt_graph.png)
+
+Seperti yang digambar bahwa menunjukkan adanya node publisher yang berkomunikasi dengan node subscriber.
 
 | [◀️ Prev: 10 Write a Python Publisher](../10_python_publisher/) | [🏠 Menu Utama](/) | [▶️ Next: 12 CPP Publisher](../12_cpp_publisher/) |
 | -------------------------------------------------------------- | ----------------- | ------------------------------------------------ |

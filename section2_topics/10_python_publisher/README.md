@@ -95,7 +95,7 @@ ros2 run my_py_pkg robot_news_station
 ```
 
 Contoh hasil terminal:
-![Screenshot](/assets/terminal_python_node.png)
+![terminal python publisher](/assets/terminal_python_publisher.png)
 
 | [◀️ Prev: 09 ROS2 Topic](../09_ros2_topic/) | [🏠 Menu Utama](/) | [▶️ Next: 11 Write a Python Subsciber](../11_python_subscriber/) |
 | ------------------------------------------ | ----------------- | --------------------------------------------------------------- |
