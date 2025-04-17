@@ -37,13 +37,13 @@ Next Step:
 | Step | Topic                               | Description                                                          | Link                                              |
 | ---- | ----------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
 | 9    | ROS2 Topic                          | Penjelasan konsep topic pada node                                    | [klik](/section2_topics/09_ros2_topic/)           |
-| 10   | Write a Python Publisher            | Membuat publisher sederhana menggunakan bahasa Python                | [klik](/section2_topics/14_python_publisher/)     |
-| 11   | Write a Python Subscriber           | Membuat subscriber untuk menerima data topic menggunakan Python      | [klik](/section2_topics/15_python_subscriber/)    |
-| 12   | Write a C++ Publisher               | Membuat publisher dalam bahasa C++ untuk mengirim data ke topic      | [klik](/section2_topics/16_cpp_publisher/)        |
-| 13   | Write a C++ Subscriber              | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic    | [klik](/section2_topics/17_cpp_subscriber/)       |
-| 14   | Experiment on Topics with Turtlesim | Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim       | [klik](/section2_topics/18_turtlesim_topics/)     |
-| 15   | Activity ROS2 Topics                | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2 | [klik](/section2_topics/19_activity_ros2_topics/) |
-| 16   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section2_topics/20_section_conclusion/)   |
+| 10   | Write a Python Publisher            | Membuat publisher sederhana menggunakan bahasa Python                | [klik](/section2_topics/10_python_publisher/)     |
+| 11   | Write a Python Subscriber           | Membuat subscriber untuk menerima data topic menggunakan Python      | [klik](/section2_topics/11_python_subscriber/)    |
+| 12   | Write a C++ Publisher               | Membuat publisher dalam bahasa C++ untuk mengirim data ke topic      | [klik](/section2_topics/12_cpp_publisher/)        |
+| 13   | Write a C++ Subscriber              | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic    | [klik](/section2_topics/13_cpp_subscriber/)       |
+| 14   | Experiment on Topics with Turtlesim | Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim       | [klik](/section2_topics/14_turtlesim_topics/)     |
+| 15   | Activity ROS2 Topics                | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2 | [klik](/section2_topics/15_activity_ros2_topics/) |
+| 16   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section2_topics/16_section_conclusion/)   |
 
 ### Section 3: ROS2 Services - Server and Client
 
