@@ -1,4 +1,4 @@
-# Install ROS2 via Ubuntu 22.04 di VirtualBox (Windows Host)
+# Install Ubuntu 22.04 di VirtualBox (Windows Host)
 
 Panduan lengkap instalasi ROS2 menggunakan Ubuntu 22.04 LTS di dalam VirtualBox (khusus pengguna Windows).
 

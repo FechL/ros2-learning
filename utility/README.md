@@ -29,5 +29,5 @@ Shortcut:
 | Next Tab                 | `Ctrl` + `Tab`           | Fullscreen Mode | `F11`                  |
 | Previous Tab             | `Ctrl` + `Shift` + `Tab` | Close Terminal  | `Ctrl` + `Shift` + `W` |
 
-| [🏠 Menu Utama](/) |
-| ----------------- |
+| ◀️ [Prev: Install ROS2 Humble](/humble/) | [🏠 Menu Utama](/) |
+| --------------------------------------- | ----------------- |
