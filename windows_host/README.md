@@ -57,7 +57,7 @@ Ubuntu 22.04 ISO (Desktop): [https://releases.ubuntu.com/jammy/](https://release
    sudo apt autoremove
    sudo apt install build-essential gcc make perl dkms python3-pip</pre>
 
-## 4. Install Guest Additions (Opsional)
+## Install Guest Additions (Opsional)
 
 Meningkatkan performa VM dan mengaktifkan fitur copy-paste & folder sharing
 
@@ -93,9 +93,6 @@ Jika Ubuntu sudah siap, kamu bisa lanjut ke tahapan instalasi ROS2:
 - VM ini hanya digunakan sebagai lingkungan kerja ROS2
 - Jika ingin lebih performa tinggi, bisa dual boot Ubuntu + Windows (lanjutan dari ini)
 - Dokumentasi ini ditujukan untuk pemula atau peserta pelatihan robotik berbasis ROS2
-
-## ❓ Butuh Bantuan
-Jika kamu mengalami kendala, jangan ragu bertanya melalui forum, komunitas, atau mentor kamu.
 
  | [🏠 Menu Utama](/) |
  | ----------------- |
