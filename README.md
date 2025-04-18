@@ -43,7 +43,7 @@ Next Step:
 | 13   | Write a C++ Subscriber              | Membuat subscriber dalam bahasa C++ untuk membaca data dari topic    | [klik](/section2_topics/13_cpp_subscriber/)       |
 | 14   | Experiment on Topics with Turtlesim | Bereksperimen dengan topik ROS2 menggunakan simulasi Turtlesim       | [klik](/section2_topics/14_turtlesim_topics/)     |
 | 15   | Activity ROS2 Topics                | Aktivitas praktikal untuk memperkuat pemahaman tentang topik di ROS2 | [klik](/section2_topics/15_activity_ros2_topics/) |
-| 16   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section2_topics/16_section_conclusion/)   |
+| 16   | Section Conclusion                  | Kesimpulan dan rangkuman dari pembelajaran tentang topik di ROS2     | [klik](/section2_topics/16_section2_conclusion/)  |
 
 ### Section 3: ROS2 Services - Server and Client
 
