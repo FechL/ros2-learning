@@ -54,7 +54,7 @@ ros2 interface show example_interfaces/msg/Int64
 
 Dalam `number_counter`, **publisher sebaiknya langsung dipanggil dari dalam callback subscriber**.
 
-## Answer
+## Answer (spoiler)
 
 Code jawaban terdapat pada file di folder ini.
 
