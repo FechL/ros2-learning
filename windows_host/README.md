@@ -85,5 +85,5 @@ Jika Ubuntu sudah siap, kamu bisa lanjut ke tahapan instalasi ROS2:
 - 📦 [Install ROS2 Humble](/humble/)
 - 🔧 [Install Utility Tools](/utility/)
 
- | [🏠 Menu Utama](/) |
- | ----------------- |
+ | [🏠 Menu Utama](/) | ▶️ [Next: Install ROS2 Humble](/humble/) |
+ | ----------------- | --------------------------------------- |
