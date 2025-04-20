@@ -50,7 +50,7 @@ Berikut adalah ilustrasi struktur node dalam package:
 ### 📦 Download Code
 
 Kamu bisa download contoh kode lengkap untuk bagian ini di sini:  
-[📥 Download code_end_section_1_nodes.zip](code_end_section_1_nodes.zip)
+[📥 Download code_end_section_1.zip](code_end_section_1.zip)
 
 | [◀️ Prev: 07 Template Node](../07_template_node/) | [🏠 Menu Utama](/) | [▶️ Next: 09 ROS2 Topic](/section2_topics/09_ros2_topic/) |
 | ------------------------------------------------ | ----------------- | -------------------------------------------------------- |
