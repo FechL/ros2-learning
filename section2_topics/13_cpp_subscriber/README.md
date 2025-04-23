@@ -53,7 +53,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## Penjelasan Code
+Penjelasan Code
 
 - Node bernama `"smartphone"` dibuat menggunakan OOP.
 - Subscriber dibuat untuk topik `robot_news` dengan jenis pesan `String`.

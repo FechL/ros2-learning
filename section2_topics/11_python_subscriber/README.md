@@ -51,7 +51,8 @@ if __name__ == "__main__":
     main()
 ```
 
-## Penjelasan Code
+Penjelasan Code
+
 - Menggunakan `example_interfaces/msg/String` sebagai jenis pesan yang akan diterima.
 - Node ROS2 dibuat dengan nama `"smartphone"`.
 - Subscriber dibuat untuk topik `"robot_news"` dan akan memanggil `callback_robot_news()` saat ada pesan masuk.

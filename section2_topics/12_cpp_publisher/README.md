@@ -56,7 +56,7 @@ int main(int argc, char **argv)
 }
 ```
 
-## Penjelasan Code
+Penjelasan Code
 
 - Node bernama `"robot_news_station"` dibuat menggunakan OOP.
 - Publisher mengirim pesan bertipe `String` ke topik `robot_news`.
