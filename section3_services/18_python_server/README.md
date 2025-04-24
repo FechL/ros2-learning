@@ -28,21 +28,22 @@ from example_interfaces.srv import AddTwoInts
 class AddTwoIntsServerNode(Node):
     def __init__(self):
         super().__init__("add_two_ints_server")
+        
         self.server = self.create_service(
-            AddTwoInts,           # Tipe service
-            "add_two_ints",       # Nama service
-            self.callback_add_two_ints  # Callback saat request masuk
+            AddTwoInts,           # Menentukan tipe service (AddTwoInts)
+            "add_two_ints",       # Nama service (harus cocok dengan client)
+            self.callback_add_two_ints  # Fungsi callback yang akan dijalankan saat ada request
         )
         self.get_logger().info("Service 'add_two_ints' is ready to be called")
         
     def callback_add_two_ints(self, request: AddTwoInts.Request, response: AddTwoInts.Response):
         response.sum = request.a + request.b
         self.get_logger().info(f"{request.a} + {request.b} = {response.sum}")
-        return response
+        return response  # Kembalikan response ke client
 
 def main(args=None):
     rclpy.init(args=args)
-    node = AddTwoIntsServerNode()
+    node = AddTwoIntsServerNode()  # Buat objek dari node
     rclpy.spin(node)
     rclpy.shutdown()
 
@@ -74,7 +75,6 @@ Tambahkan ke bagian `entry_points`:
 
 Tambahkan dependensi berikut jika belum:
 
-
 ```xml
 <depend>example_interfaces</depend>
 ```
@@ -86,7 +86,6 @@ Arahkan ke folder utama workspace:
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select my_py_pkg
-source install/setup.bash
 ```
 
 Kemudian jalankan node:
@@ -95,27 +94,15 @@ Kemudian jalankan node:
 ros2 run my_py_pkg add_two_ints_server
 ```
 
-Jika berhasil, Anda akan melihat pesan seperti ini di terminal:
-
-```
-[INFO] [add_two_ints_server]: Service 'add_two_ints' is ready to be called
-```
-
-## Memanggil Service dari Terminal
-
 Kita bisa memanggil service secara manual dengan perintah berikut:
 
 ```bash
-ros2 service call /add_two_ints example_interfaces/srv/AddTwoInts "{a: 5, b: 7}"
+ros2 service call /add_two_ints example_interfaces/srv/AddTwoInts "{a: 4, 9: 7}"
 ```
 
-Output terminal service server akan menunjukkan:
+Jika berhasil, Anda akan melihat pesan seperti ini di terminal:
+![Terminal Python Server](/assets/terminal_python_server.png)
 
-```
-[INFO] [add_two_ints_server]: 5 + 7 = 12
-```
 
----
-
-| [◀️ Prev: 17 ROS2 Service](../17_ros2_service/) | [🏠 Menu Utama](/) | [▶️ Next: 19 Write a Python Client](../19_/) |
-| ---------------------------------------------- | ----------------- | ------------------------------------------- |
+| [◀️ Prev: 17 ROS2 Service](../17_ros2_service/) | [🏠 Menu Utama](/) | [▶️ Next: 19 Write a Python Client](../19_python_client/) |
+| ---------------------------------------------- | ----------------- | -------------------------------------------------------- |
