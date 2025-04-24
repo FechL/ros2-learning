@@ -1,4 +1,3 @@
-
 # Write a Python Publisher
 
 Sekarang kita akan membuat **node publisher** pertama Anda menggunakan **Python** di ROS2. Node ini akan mengirimkan pesan teks secara berkala ke sebuah topik bernama `/robot_news`.
@@ -85,7 +84,6 @@ Arahkan ke folder utama workspace:
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select my_py_pkg
-source install/setup.bash
 ```
 
 Kemudian jalankan node:

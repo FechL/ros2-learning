@@ -149,8 +149,7 @@ ros2 run my_py_pkg add_two_ints_client
 ```
 
 Jika berhasil, Anda akan melihat pesan seperti ini di terminal:
-
-![Terminal Python Client](/assets/terminal_python_client.png)
+![terminal python client](/assets/terminal_python_client.png)
 
 | [◀️ Prev: 18 Write a Python Server](../19_python_server/) | [🏠 Menu Utama](/) | [▶️ Next: 20 Write a CPP Server](../20_cpp_server/) |
 | -------------------------------------------------------- | ----------------- | -------------------------------------------------- |

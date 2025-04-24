@@ -85,7 +85,6 @@ Arahkan ke folder utama workspace:
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select my_py_pkg
-source install/setup.bash
 ```
 
 Jalankan node subscriber:

@@ -101,7 +101,7 @@ ros2 service call /add_two_ints example_interfaces/srv/AddTwoInts "{a: 4, 9: 7}"
 ```
 
 Jika berhasil, Anda akan melihat pesan seperti ini di terminal:
-![Terminal Python Server](/assets/terminal_python_server.png)
+![terminal python server](/assets/terminal_python_server.png)
 
 
 | [◀️ Prev: 17 ROS2 Service](../17_ros2_service/) | [🏠 Menu Utama](/) | [▶️ Next: 19 Write a Python Client](../19_python_client/) |

@@ -1,4 +1,3 @@
-
 # Write a C++ Publisher
 
 Sekarang kita akan membuat **node publisher** pertama Anda menggunakan **C++** di ROS2. Node ini akan mengirimkan pesan teks secara berkala ke sebuah topik bernama `/robot_news`.
@@ -96,7 +95,6 @@ Arahkan ke folder utama workspace:
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select my_cpp_pkg
-source install/setup.bash
 ```
 
 Jalankan node publisher:

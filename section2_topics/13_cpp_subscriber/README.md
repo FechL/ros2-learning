@@ -93,7 +93,6 @@ Arahkan ke folder utama workspace:
 ```bash
 cd ~/ros2_ws
 colcon build --packages-select my_cpp_pkg
-source install/setup.bash
 ```
 
 Jalankan node subscriber:
@@ -101,8 +100,6 @@ Jalankan node subscriber:
 ```bash
 ros2 run my_cpp_pkg smartphone
 ```
-
-## Hasil Terminal
 
 Jika node publisher (`robot_news_station`) sedang aktif, maka output terminal akan menampilkan pesan seperti:
 
