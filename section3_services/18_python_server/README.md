@@ -97,7 +97,7 @@ ros2 run my_py_pkg add_two_ints_server
 Kita bisa memanggil service secara manual dengan perintah berikut:
 
 ```bash
-ros2 service call /add_two_ints example_interfaces/srv/AddTwoInts "{a: 4, 9: 7}"
+ros2 service call /add_two_ints example_interfaces/srv/AddTwoInts "{a: 4, b: 7}"
 ```
 
 Jika berhasil, Anda akan melihat pesan seperti ini di terminal:

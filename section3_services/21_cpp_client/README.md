@@ -174,5 +174,5 @@ ros2 run my_cpp_pkg add_two_ints_client
 Contoh hasil terminal:
 ![terminal cpp client](/assets/terminal_cpp_client.png)
 
-| [◀️ Prev: 19 Write a Python Client](../19_python_client/) | [🏠 Menu Utama](/) | [▶️ Next: 21 Experiment on Services with Turtlesim](../21_turtlesim_services/) |
-| -------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------- |
+| [◀️ Prev: 20 Write a CPP Server](../20_cpp_server/) | [🏠 Menu Utama](/) | [▶️ Next: 22 Experiment on Services with Turtlesim](../21_turtlesim_service/) |
+| -------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------- |
