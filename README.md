@@ -45,6 +45,18 @@ Next Step:
 
 ### Section 3: ROS2 Services - Server and Client
 
+| Step | Topic                         | Description                                                    | Link                                                  |
+| ---- | ----------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
+| 17   | ROS2 Service                  | Penjelasan konsep service pada node ROS2                       | [klik](/section3_services/17_ros2_service/)           |
+| 18   | Write a Python Service Server | Membuat service server menggunakan Python                      | [klik](/section3_services/18_python_service_server/)  |
+| 19   | Write a Python Service Client | Membuat service client menggunakan Python                      | [klik](/section3_services/19_python_service_client/)  |
+| 20   | Write a C++ Service Server    | Membuat service server menggunakan C++                         | [klik](/section3_services/20_cpp_service_server/)     |
+| 21   | Write a C++ Service Client    | Membuat service client menggunakan C++                         | [klik](/section3_services/21_cpp_service_client/)     |
+| 22   | Experiment on Services        | Bereksperimen dengan service ROS2 untuk latihan langsung       | [klik](/section3_services/22_experiment_services/)    |
+| 23   | Activity ROS2 Services        | Aktivitas praktikal untuk memperkuat pemahaman service di ROS2 | [klik](/section3_services/23_activity_ros2_services/) |
+| 24   | Section 3 Conclusion          | Kesimpulan dan rangkuman materi pada Section 3                 | [klik](/section3_services/24_section3_conclusion/)    |
+
+
 ## 🧠 Tips, Tools, and Shortcut
 
 * `ctrl`+`c` untuk menghentikan program pada terminal
