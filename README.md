@@ -4,8 +4,6 @@
 
 ROS2 menyediakan berbagai tools dan library yang bisa digunakan untuk membangun robot. Dengan ROS2, programmer dapat fokus pada pengembangan logika robot tanpa perlu repot membangun infrastruktur dasar seperti **komunikasi antar komponen robot**.
 
-![ros2](/assets/ros2.png)
-
 ## Instalasi dan Setup
 Untuk instalasi ROS2, ada dua pilihan utama:
 
