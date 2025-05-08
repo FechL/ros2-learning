@@ -2,6 +2,13 @@
 
 ROS2 Humble direkomendasikan karena masih aktif dikembangkan dengan dukungan hingga Mei 2027. Berikut adalah langkah-langkah instalasi ROS2 Humble di Ubuntu.
 
+Pastikan sudah mengupdate package-package beserta depedensinya
+<pre lang="markdown">
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove
+sudo apt install build-essential gcc make perl dkms python3-pip</pre>
+
 ## Set Locale
 
 Pastikan sistem Anda mendukung `UTF-8`. Untuk memeriksa dan mengatur locale:
