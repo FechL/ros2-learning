@@ -75,6 +75,7 @@ sudo apt install ros-dev-tools
 ## Setup Environment ROS2
 
 Atur environment dengan mengikuti langkah-langkah berikut:
+> Atur sesuai shell kalian untuk `~/.<shell>rc`. Misal punyaku shell nya bash jadi ~/.bashrc
 
 ```bash
 # Ganti ".bash" dengan shell yang Anda gunakan jika bukan bash

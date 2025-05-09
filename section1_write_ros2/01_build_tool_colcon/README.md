@@ -5,7 +5,7 @@ Agar dapat membuat dan mengelola program ROS 2, kamu membutuhkan sebuah build to
 ## Instalasi Colcon
 Untuk menginstal Colcon dan ekstensi umumnya, jalankan perintah berikut di terminal:
 ```bash
-sudo apt install python3-colcon-commons-extensions
+sudo apt install python3-colcon-common-extensions
 ```
 > Catatan: Paket colcon-common-extensions mencakup sekumpulan plugin penting untuk membangun dan menjalankan workspace ROS 2, seperti colcon-build, colcon-test, dan lainnya.
 
