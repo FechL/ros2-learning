@@ -55,6 +55,7 @@ Next Step:
 | 22   | Experiment on Services with Turtlesim | Bereksperimen dengan service ROS2 untuk latihan langsung       | [klik](/section3_services/22_experiment_services/)    |
 | 23   | Activity ROS2 Services                | Aktivitas praktikal untuk memperkuat pemahaman service di ROS2 | [klik](/section3_services/23_activity_ros2_services/) |
 | 24   | Section 3 Conclusion                  | Kesimpulan dan rangkuman materi pada Section 3                 | [klik](/section3_services/24_section3_conclusion/)    |
+
 | Step | Topic                                 | Description                                                    | Link                                                  |
 | ---- | ------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 | 17   | ROS2 Service                          | Penjelasan konsep service pada node ROS2                       | [klik](/section3_services/17_ros2_service/)           |
