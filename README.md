@@ -56,7 +56,6 @@ Next Step:
 | 23   | Activity ROS2 Services                | Aktivitas praktikal untuk memperkuat pemahaman service di ROS2 | [klik](/section3_services/23_activity_ros2_services/) |
 | 24   | Section 3 Conclusion                  | Kesimpulan dan rangkuman materi pada Section 3                 | [klik](/section3_services/24_section3_conclusion/)    |
 
-
 ## Tips, Tools, and Shortcut
 
 * `ctrl`+`c` untuk menghentikan program pada terminal
