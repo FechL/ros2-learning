@@ -20,16 +20,16 @@ Next Step:
 ## 📘 Materi Pembelajaran
 
 ### Section 1: Write First ROS2 Program
-| Step | Topic                     | Description                                           | Link                                                 |
-| ---- | ------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
-| 1    | Build Tool Colcon         | Instalasi dan pengenalan build tool `colcon` di ROS 2 | [klik](/section1_write_ros2/01_build_tool_colcon/)   |
-| 2    | Create Workspace          | Pembuatan workspace sebagai dasar pengembangan ROS 2  | [klik](/section1_write_ros2/02_create_workspace/)    |
-| 3    | Create Package            | Membuat package menggunakan Python dan C++            | [klik](/section1_write_ros2/03_create_package/)      |
-| 4    | ROS2 Node                 | Penjelasan konsep dan arsitektur node dalam ROS 2     | [klik](/section1_write_ros2/04_ros2_node/)           |
-| 5    | Write a Node Using Python | Implementasi node ROS 2 menggunakan bahasa Python     | [klik](/section1_write_ros2/05_python_node/)         |
-| 6    | Write a Node Using C++    | Implementasi node ROS 2 menggunakan bahasa C++        | [klik](/section1_write_ros2/06_cpp_node/)            |
-| 7    | Template for Nodes        | Template OOP untuk membuat node dalam Python dan C++  | [klik](/section1_write_ros2/07_template_node/)       |
-| 8    | Section 1 Conclusion      | Kesimpulan dan rangkuman materi pada Section 1        | [klik](/section1_write_ros2/08_section1_conclusion/) |
+| Step | Topic                     | Description                                          | Link                                                 |
+| ---- | ------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| 1    | Build Tool Colcon         | Instalasi dan pengenalan build tool colcon di ROS 2  | [klik](/section1_write_ros2/01_build_tool_colcon/)   |
+| 2    | Create Workspace          | Pembuatan workspace sebagai dasar pengembangan ROS 2 | [klik](/section1_write_ros2/02_create_workspace/)    |
+| 3    | Create Package            | Membuat package menggunakan Python dan C++           | [klik](/section1_write_ros2/03_create_package/)      |
+| 4    | ROS2 Node                 | Penjelasan konsep dan arsitektur node dalam ROS 2    | [klik](/section1_write_ros2/04_ros2_node/)           |
+| 5    | Write a Node Using Python | Implementasi node ROS 2 menggunakan bahasa Python    | [klik](/section1_write_ros2/05_python_node/)         |
+| 6    | Write a Node Using C++    | Implementasi node ROS 2 menggunakan bahasa C++       | [klik](/section1_write_ros2/06_cpp_node/)            |
+| 7    | Template for Nodes        | Template OOP untuk membuat node dalam Python dan C++ | [klik](/section1_write_ros2/07_template_node/)       |
+| 8    | Section 1 Conclusion      | Kesimpulan dan rangkuman materi pada Section 1       | [klik](/section1_write_ros2/08_section1_conclusion/) |
 
 ### Section 2: ROS2 Topics - Publisher and Subsciber
 | Step | Topic                               | Description                                                  | Link                                              |
