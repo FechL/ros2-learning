@@ -42,7 +42,7 @@ Semakin kamu terbiasa, semakin mudah kamu memilih kapan memakai **Topic** atau *
 ### 📦 Download Code
 
 Kamu bisa download contoh kode lengkap untuk bagian ini di sini:  
-[📥 Download code_end_section_3.zip](code_end_section_3.zip)
+[Download code_end_section_3.zip](code_end_section_3.zip)
 
 | [◀️ Prev: 23 Activity ROS2 Services](../20_activity_ros2_services/) | [🏠 Menu Utama](/) | [▶️ Next: 21 Gazebo (coming soon)](/) |
 | ------------------------------------------------------------------ | ----------------- | ------------------------------------ |

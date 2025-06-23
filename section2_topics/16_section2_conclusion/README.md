@@ -33,7 +33,7 @@ Sebuah **topic** dalam ROS 2 adalah:
 ### 📦 Download Code
 
 Kamu bisa download contoh kode lengkap untuk bagian ini di sini:  
-[📥 Download code_end_section_2.zip](code_end_section_2.zip)
+[Download code_end_section_2.zip](code_end_section_2.zip)
 
 | [◀️ Prev: 15 Activity ROS2 Topics](../15_activity_ros2_topics/) | [🏠 Menu Utama](/) | [▶️ Next: ROS2 Service](/section3_services/17_ros2_service/) |
 | -------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- |
