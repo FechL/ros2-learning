@@ -6,7 +6,7 @@ Saatnya mempraktikkan apa yang sudah kamu pelajari tentang **ROS2 Services**! Ka
 
 Berikut adalah representasi komunikasi node dan service baru yang akan kamu buat:
 
-![activity_3_services_graph](/assets/activity_3_services_graph.png)
+![activity_3_services_graph](/assets/activity_2_graph.png)
 
 > Kotak biru = Node, Kotak hijau = Topic, Kotak ungu = Service
 
