@@ -8,7 +8,7 @@ Berikut adalah representasi komunikasi node dan service baru yang akan kamu buat
 
 ![activity_3_services_graph](/assets/activity_2_graph.png)
 
-> Kotak biru = Node, Kotak hijau = Topic, Kotak ungu = Service
+> Kotak biru = Node, Kotak hijau = Topic, Kotak kuning = Service
 
 ## Deskripsi Tugas
 

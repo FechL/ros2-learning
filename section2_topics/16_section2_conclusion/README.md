@@ -22,7 +22,7 @@ Sebuah **topic** dalam ROS 2 adalah:
 
 ### Visualisasi
 
-![conclusion 2](/assets/conclusion_2.png)
+![conclusion topics](/assets/conclusion_topics.png)
 
 - Nama topik **harus dimulai dengan huruf**.
   > ❌ Contoh tidak valid: `/98.7`  
